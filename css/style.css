@@ -1,0 +1,64 @@
+.soccer{
+  text-align:center;
+  border:10px solid green;
+  padding-bottom:20px;
+ color:#009933;
+  background-color:lime;
+ }
+
+.agar{
+  text-align:center;
+border:10px solid green;
+color:#009933;
+background-color:lime;
+}
+
+.RAZE3{
+  text-align:center;
+  border: 10px solid green;
+  color:#009933;
+  background-color:lime;
+}
+body{
+  background-image:url("http://bridgingworx.org.au/communities/7/004/012/421/357//images/4607188157.jpg");
+  background-position:center center;
+  backround-repeat:no-repeat;
+  background-scroll:fixed;
+  background-size:cover;
+}
+
+p{
+font-family:"arial";
+  text-transform:capitalize;
+  background-color:lime;
+}
+
+h1{
+  font-family: "arial";
+}
+
+
+
+#green{
+text-align:center;
+border:10px solid green;
+  float:center;
+  background-color:lime;
+  padding-top:10px;
+  margin-top:-20px;
+  
+}
+img {border:10px solid transparent;
+  -webkit-transition: all 700ms ease;}
+img:hover{
+ border:10px solid green;
+  border-radius:100px;
+
+
+
+
+
+
+
+
+  
